@@ -1,1 +1,2 @@
-# electronNew
+# Thaki
+Electron MVP
